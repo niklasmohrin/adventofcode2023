@@ -20,6 +20,7 @@
               pylsp-rope
               python-lsp-ruff
               ujson
+              isort
 
               more-itertools
             ]))
