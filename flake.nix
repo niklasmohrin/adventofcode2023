@@ -23,6 +23,8 @@
               isort
 
               more-itertools
+              sympy
+              networkx
             ]))
 
             pypy310
